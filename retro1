@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="ext" tvg-name="PinguinoTV HD" tvg-logo="" group-title="",PinguinoTV HD
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS" tvg-logo="" group-title="",Chile – EL PINGUINO TV CANAL 4 PUNTA ARENAS
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2" tvg-logo="" group-title="",VALLE TELEVISION CANAL 2 SAN FELIPE OPTION 2
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal 2 ValleTV" tvg-logo="" group-title="",Canal 2 ValleTV
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/BratuMarian.m3u8?MegaIPTVArgentina
+#EXTINF:-1 tvg-ID="ext" tvg-name="#EXTGRP:Musica" tvg-logo="" group-title="",#EXTGRP:Musica
+http://186.33.227.199/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="#EXTGRP:Musica" tvg-logo="" group-title="",#EXTGRP:Musica
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="#EXTGRP:unsorted" tvg-logo="" group-title="",#EXTGRP:unsorted
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 26" tvg-logo="" group-title="",CANAL 26
+http://200.115.193.177/live/26hd-480/.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="VTV Valle de Aconcagua" tvg-logo="" group-title="",VTV Valle de Aconcagua
+http://cdn.streamingmedia.cl:1935/live/rtmp.stream/hasbahca.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Multimedios" tvg-logo="" group-title="",Multimedios
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Multimedios" tvg-logo="" group-title="",Multimedios
+http://multimedioshls-i.akamaihd.net/hls/live/223741/57828478001-3/master.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telemax Arg" tvg-logo="" group-title="",Telemax Arg
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="CANAL 26 ARGENTINA" tvg-logo="" group-title="",CANAL 26 ARGENTINA
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Canal 9" tvg-logo="" group-title="",Canal 9
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Telemax (HD)" tvg-logo="" group-title="",Telemax (HD)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="One HD" tvg-logo="" group-title="",One HD
+http://rtmp.one.by:1300/
+#EXTINF:-1 tvg-ID="ext" tvg-name="Nueva Vida" tvg-logo="" group-title="",Nueva Vida
+http://stream.novotempo.com:1935/tv/tvnuevotiempo.stream/live.m3u8
+#EXTINF:-1 tvg-ID="ext" tvg-name="Visit-X TV" tvg-logo="" group-title="",Visit-X TV
+http://stream.visit-x.tv/vxtv/live/playlist.m3u8?
